@@ -3,6 +3,7 @@
   "version": "0.3.0",
   "description": "Allow add or remove redux middlewares dynamically",
   "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "lint": "eslint src/ --fix",
     "build": "babel -d lib/ src/",
